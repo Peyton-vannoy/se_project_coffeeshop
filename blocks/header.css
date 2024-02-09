@@ -1,5 +1,5 @@
 .header {
-  background-image: url(/images/background_header.svg);
+  background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -41,7 +41,8 @@
 
 .header__image {
   position: absolute;
-  max-width: 646px;
+  width: 646px;
+  height: 568px;
   top: 124px;
   right: 5px;
 }
