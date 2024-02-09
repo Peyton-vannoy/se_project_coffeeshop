@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+It would be cool to add some animated backgrounds to some of the pages. Also, when you hover over an item you get to see a picture of it.
