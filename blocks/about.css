@@ -22,7 +22,7 @@
   max-width: 660px;
   padding: 119px 80px 173px 0;
   margin-left: auto;
-  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -48,13 +48,6 @@
 }
 
 .about__circle_animation_blurred {
-  background-color: #2f80ed;
-  width: 426px;
-  height: 426px;
-  border-radius: 50%;
-  position: absolute;
-  top: -152px;
-  left: -129px;
   animation: pulsate 1.3s ease-in-out infinite;
 }
 

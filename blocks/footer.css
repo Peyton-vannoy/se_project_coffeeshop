@@ -37,6 +37,7 @@
 .footer__list-item {
   margin-bottom: 16px;
 }
+
 .footer__list-item:last-child {
   margin: 0;
 }
@@ -49,6 +50,7 @@
   font-weight: normal;
   color: #fff;
   transition: color 1s;
+  text-decoration: none;
 }
 
 .footer__social-link:hover {
