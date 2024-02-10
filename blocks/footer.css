@@ -13,7 +13,7 @@
   height: 39px;
 }
 
-.footer__social-media.column {
+.footer__social-media-column {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
